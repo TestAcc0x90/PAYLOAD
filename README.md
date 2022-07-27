@@ -1,2 +1,4 @@
-# PAYLOAD
-pew pew pew pew pew pew
+# PAYLOAD: pew pew pew pew pew pew
+
+### DO NOT DOWNLOAD, THIS IS A LIVE SHELLCODE (PROBABLY A CALC METERPRETER), THIS IS A TEST PROJECT .
+
